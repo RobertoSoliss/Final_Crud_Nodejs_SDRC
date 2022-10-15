@@ -206,7 +206,7 @@ app.post("/actualizarBioma", (req,res)=>{
 
 
 
-const puerta = process.env.port || 3000
+const puerta = process.env.port || 0000
 
 app.listen(puerta, ()=>{
     console.log(`Escuchando desde el puerto: ${port}`)
