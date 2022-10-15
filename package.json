@@ -9,7 +9,7 @@
     "start": "node src/app.js"
   },
   "keywords": [],
-  "author": "",
+  "author": "Roberto Solis",
   "license": "ISC",
   "dependencies": {
     "body-parser": "^1.20.1",
